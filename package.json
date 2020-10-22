@@ -1,0 +1,23 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "promises-aplus-tests ./src/MyPromise"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrGuojunwei/es6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrGuojunwei/es6/issues"
+  },
+  "homepage": "https://github.com/MrGuojunwei/es6#readme",
+  "devDependencies": {
+    "request": "^2.88.2"
+  }
+}
